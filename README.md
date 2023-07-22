@@ -30,7 +30,7 @@ How to use ?
 6. Then run the following command:
 
 <pre>npm start</pre>
-svdfvjnsljvnsvnsf;jbn;anvfa;na;dfvna;dknv;adnv;adnv
+
 ------------------------------------ **** ------------------------------
 
 Thanks to :
